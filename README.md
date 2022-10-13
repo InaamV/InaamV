@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hii 👋
 
-<!--
-**InaamV/InaamV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😁 Je suis étudiante en première année à l'Esiee-it en BTS SIO SLAM
 
-Here are some ideas to get you started:
+### • J'utilise les langages :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python
+
+☕️ Java
+
+💻 HTML, CSS et JavaScript
+
+### • Hobbies :
+
+🎭 le théâtre
+
+💃🏽 la danse
+
+🎮 les jeux vidéos
+
+🎬 les séries
+
+📖 and more !
