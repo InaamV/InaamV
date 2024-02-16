@@ -1,6 +1,6 @@
 ## Hii 👋
 
-😁 Je suis étudiante en première année à l'Esiee-it en BTS SIO SLAM
+😁 Je suis étudiante en deuxième année à l'Esiee-it en BTS SIO SLAM
 
 ### • J'utilise les langages :
 
